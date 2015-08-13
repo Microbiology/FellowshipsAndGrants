@@ -1,2 +1,4 @@
-# SchlossHanniganShare
-Files to be shared between Pat and Geof
+# FellowshipsAndGrants
+Files related to great fellowship and grant opportunities.
+
+Feel free to contribute.
